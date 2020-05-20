@@ -1,4 +1,4 @@
-#Impleting own RandomSearch CV Method
+#Impleting custom RandomSearch CV Method
 
 This functions helps you get a better idea on how RandomSearch CV works under the hood.
 
